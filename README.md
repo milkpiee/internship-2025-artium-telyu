@@ -4,7 +4,7 @@ This repository showcases the development of a touchscreen-based HMI system for 
 
 **🧠 Key Focus Areas**
 
-- Development of a touchscreen-based Human Machine Interface (HMI) for an HVAS device
+- Development of a touchscreen-based and button input Human Machine Interface (HMI) for an HVAS device
 - Real-time air quality data logging to SD card using ESP32
 - File explorer UI with navigation via both I2C push buttons and touchscreen input
 - Integration with a thermal printer for direct file/data printing
