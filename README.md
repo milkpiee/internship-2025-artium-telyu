@@ -29,8 +29,8 @@ This repository showcases the development of a touchscreen-based HMI system for 
 
 **📌 Notes**
 
-- All projects are written in C++ (Arduino framework) for ESP32 boards.
-- Tested primarily on ESP32-S3 and ESP32-3248S035 boards with TFT LCD displays.
+- All projects are written in C++ (Arduino framework) for all boards.
+- The UI was tested primarily on ESP32-S3 and ESP32-3248S035 boards with TFT LCD displays.
 - Hardware-specific configurations (e.g., pin assignments, display drivers) are included in each project folder.
 - All UI elements are built using LVGL v8.3.11.
 - SD card should be formatted as FAT32, and CSV/text files must follow expected structures for parsing and display.
