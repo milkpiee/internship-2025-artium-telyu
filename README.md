@@ -1,6 +1,6 @@
 # internship-2025-artium-telyu
 
-This repository showcases the development of a touchscreen-based HMI system for a High Volume Air Sampler (HVAS) device during my internship at PT Artium Multikarya Indonesia, from June 30 to August 9, 2025. The project features real-time sensor logging, a file explorer UI with button and touchscreen input, SD card storage, brightness control, and thermal printing.
+This repository showcases the development of a touchscreen-based HMI system for a High Volume Air Sampler (HVAS) device during our internship at PT Artium Multikarya Indonesia, from June 30 to August 9, 2025. The project features real-time sensor logging, a file explorer UI with button and touchscreen input, SD card storage, brightness control, and thermal printing.
 
 **🧠 Key Focus Areas**
 
