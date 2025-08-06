@@ -13,7 +13,7 @@ This repository showcases the development of a touchscreen-based HMI system for 
 
 **🛠 Tools**
 
-  ESP32-S3, ESP32-3248S035
+  ESP32-S3, ESP32-3248S035, Aduino UNO R3
 
   Arduino / C++
 
@@ -21,11 +21,11 @@ This repository showcases the development of a touchscreen-based HMI system for 
 
   I2C (PCF8574) for push buttons
 
-  UART communication for thermal printing
+  YF-S201 Water Flow Sensor 
 
-  SD card for file storage and logging
+  Thermal Printer Goojprt QR204 
 
-  TFT LCD display with touch input
+  Thermal Printer KL-420 TTL
 
 **📌 Notes**
 
